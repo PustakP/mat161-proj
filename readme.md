@@ -19,7 +19,7 @@ The Eigenfaces method involves several steps:
 
 To use this code:
 
-1. Ensure you have Python installed along with the necessary libraries listed in `requirements.txt`.
+1. Ensure you have Python installed along with the necessary libraries listed.
 2. Generate or use the given dataset of face images.
 3. Run the provided scripts for dataset generation and Eigenfaces implementation.
 
